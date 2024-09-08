@@ -1,0 +1,14 @@
+C:\Users\rahmi\Documents\belajar-doubly\bin\Debug\net8.0\belajar-doubly.exe
+C:\Users\rahmi\Documents\belajar-doubly\bin\Debug\net8.0\belajar-doubly.deps.json
+C:\Users\rahmi\Documents\belajar-doubly\bin\Debug\net8.0\belajar-doubly.runtimeconfig.json
+C:\Users\rahmi\Documents\belajar-doubly\bin\Debug\net8.0\belajar-doubly.dll
+C:\Users\rahmi\Documents\belajar-doubly\bin\Debug\net8.0\belajar-doubly.pdb
+C:\Users\rahmi\Documents\belajar-doubly\obj\Debug\net8.0\belajar-doubly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahmi\Documents\belajar-doubly\obj\Debug\net8.0\belajar-doubly.AssemblyInfoInputs.cache
+C:\Users\rahmi\Documents\belajar-doubly\obj\Debug\net8.0\belajar-doubly.AssemblyInfo.cs
+C:\Users\rahmi\Documents\belajar-doubly\obj\Debug\net8.0\belajar-doubly.csproj.CoreCompileInputs.cache
+C:\Users\rahmi\Documents\belajar-doubly\obj\Debug\net8.0\belajar-doubly.dll
+C:\Users\rahmi\Documents\belajar-doubly\obj\Debug\net8.0\refint\belajar-doubly.dll
+C:\Users\rahmi\Documents\belajar-doubly\obj\Debug\net8.0\belajar-doubly.pdb
+C:\Users\rahmi\Documents\belajar-doubly\obj\Debug\net8.0\belajar-doubly.genruntimeconfig.cache
+C:\Users\rahmi\Documents\belajar-doubly\obj\Debug\net8.0\ref\belajar-doubly.dll
